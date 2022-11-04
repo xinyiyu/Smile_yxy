@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+seller_pictures/
+aligned/
+video_*/
+pd_*/
+

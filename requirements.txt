@@ -1,0 +1,14 @@
+dlib
+face_recognition_models
+imageio
+numpy
+pandas
+opencv_python
+scikit_image
+scikit_learn
+sk-video
+scipy
+torch
+torchvision
+Pillow
+
